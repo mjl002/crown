@@ -1,0 +1,111 @@
+---
+title: "Lab 04 - Modelling"
+author: "Unknown"
+date: "2021/10/23"
+output: html_document
+---
+
+## Getting Started
+
+### Load packages
+
+```{r load-packages, message=FALSE}
+```
+
+### Data
+
+```{r read-data, message=FALSE}
+```
+
+## Part 1
+
+### Exercise 1
+
+Explanation here...(each answer should have text/explanation accompanying any code)
+
+```{r}
+```
+
+## Part 2
+
+### Exercise 2
+
+```{r}
+```
+
+### Exercise 3
+
+```{r}
+```
+
+### Exercise 4
+
+```{r}
+```
+
+## Part 3
+
+### Exercise 5
+
+```{r}
+```
+
+### Exercise 6
+
+```{r}
+```
+
+### Exercise 7
+
+```{r}
+```
+
+### Exercise 8
+
+```{r}
+```
+
+### Exercise 9
+
+```{r}
+```
+
+## Part 4
+
+### Exercise 10
+
+```{r}
+```
+
+### Exercise 11
+
+```{r}
+```
+
+### Exercise 12
+
+```{r}
+```
+
+### Exercise 13
+
+```{r}
+```
+
+### Exercise 14
+
+```{r}
+```
+
+### Exercise 15
+
+```{r}
+```
+
+### Exercise 16
+
+```{r}
+```
+
+
+
